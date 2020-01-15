@@ -1,5 +1,9 @@
 ## PWA Demo
 
-Uses Express and Node to create a basic webserver.
+Uses Express + Node to create a basic webserver for app demo
 
-Note: In production your PWA will need to be served over HTTPSnpm
+```
+npm start
+```
+
+to run server on localhost:3000
